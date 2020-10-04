@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Imgur Gallery
+Проект сделан на React, с зависимостями Bootstrap React, Masonry.Все данные беруться с Imgur, выводятся самые популярные записи за последний час. 
 
 ## Available Scripts
 
