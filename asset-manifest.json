@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ImgurGallery/index.html/static/css/main.f697d0a5.chunk.css",
-    "main.js": "/ImgurGallery/index.html/static/js/main.6108b4db.chunk.js",
-    "main.js.map": "/ImgurGallery/index.html/static/js/main.6108b4db.chunk.js.map",
-    "runtime-main.js": "/ImgurGallery/index.html/static/js/runtime-main.f2a02ef8.js",
-    "runtime-main.js.map": "/ImgurGallery/index.html/static/js/runtime-main.f2a02ef8.js.map",
-    "static/css/2.11829350.chunk.css": "/ImgurGallery/index.html/static/css/2.11829350.chunk.css",
-    "static/js/2.d712d099.chunk.js": "/ImgurGallery/index.html/static/js/2.d712d099.chunk.js",
-    "static/js/2.d712d099.chunk.js.map": "/ImgurGallery/index.html/static/js/2.d712d099.chunk.js.map",
-    "index.html": "/ImgurGallery/index.html/index.html",
-    "precache-manifest.a3dbfacd9e6643eaa4e516b3e4388259.js": "/ImgurGallery/index.html/precache-manifest.a3dbfacd9e6643eaa4e516b3e4388259.js",
-    "service-worker.js": "/ImgurGallery/index.html/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/ImgurGallery/index.html/static/css/2.11829350.chunk.css.map",
-    "static/css/main.f697d0a5.chunk.css.map": "/ImgurGallery/index.html/static/css/main.f697d0a5.chunk.css.map",
-    "static/js/2.d712d099.chunk.js.LICENSE.txt": "/ImgurGallery/index.html/static/js/2.d712d099.chunk.js.LICENSE.txt"
+    "main.css": "/ImgurGallery/static/css/main.f697d0a5.chunk.css",
+    "main.js": "/ImgurGallery/static/js/main.da949b96.chunk.js",
+    "main.js.map": "/ImgurGallery/static/js/main.da949b96.chunk.js.map",
+    "runtime-main.js": "/ImgurGallery/static/js/runtime-main.2114f5f3.js",
+    "runtime-main.js.map": "/ImgurGallery/static/js/runtime-main.2114f5f3.js.map",
+    "static/css/2.11829350.chunk.css": "/ImgurGallery/static/css/2.11829350.chunk.css",
+    "static/js/2.d712d099.chunk.js": "/ImgurGallery/static/js/2.d712d099.chunk.js",
+    "static/js/2.d712d099.chunk.js.map": "/ImgurGallery/static/js/2.d712d099.chunk.js.map",
+    "index.html": "/ImgurGallery/index.html",
+    "precache-manifest.034210ffa149b220a7327818ef9792a6.js": "/ImgurGallery/precache-manifest.034210ffa149b220a7327818ef9792a6.js",
+    "service-worker.js": "/ImgurGallery/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ImgurGallery/static/css/2.11829350.chunk.css.map",
+    "static/css/main.f697d0a5.chunk.css.map": "/ImgurGallery/static/css/main.f697d0a5.chunk.css.map",
+    "static/js/2.d712d099.chunk.js.LICENSE.txt": "/ImgurGallery/static/js/2.d712d099.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2a02ef8.js",
+    "static/js/runtime-main.2114f5f3.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.d712d099.chunk.js",
     "static/css/main.f697d0a5.chunk.css",
-    "static/js/main.6108b4db.chunk.js"
+    "static/js/main.da949b96.chunk.js"
   ]
 }
