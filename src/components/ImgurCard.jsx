@@ -9,7 +9,6 @@ const ImgurCard = ({ item }) => {
 
   let handleLike = () => {
     setLike(!like);
-    alert(like ? "unlike" : "like");
   };
 
   let sadCat404 =

@@ -18,7 +18,11 @@ function App() {
       .then(
         (result) => {
           setIsLoaded(true);
-          setItems(result.data);
+
+          result.data.error
+            ? setError(result.data.error)
+            : setItems(result.data);
+
           console.log(result);
         },
         (error) => {
@@ -35,14 +39,23 @@ function App() {
   };
 
   if (error) {
-    return <div>Ошибка: {error.message}</div>;
+    return <h1> Error from Imgur API: {error}</h1>;
   } else if (!isLoaded) {
-    return <div>Загрузка...</div>;
+    return <div>Loading...</div>;
   } else {
     return (
       <div>
         <div className="welcome-header">
-          <h1>Imgur Gallery</h1>
+          <h1>Imgur Gallery 🖼️</h1>
+          <br />
+          <h3>
+            Hot posts are fetched from Imgur API. Posts can be liked, likes are
+            stored in LocalStorage.
+          </h3>
+          <h3>
+            Both Images and videos can be displayed. Content is displayed via
+            masonry.
+          </h3>
         </div>
         <div
           style={{
