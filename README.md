@@ -1,7 +1,7 @@
 # Imgur Gallery
 
 Проект сделан на React, с зависимостями Bootstrap React, Masonry.Все данные беруться с Imgur, выводятся самые популярные записи за последний час.
-Доступен на Github Pages: https://frequency01.github.io/ImgurGallery/index.html
+Доступен на Github Pages: https://frequency01.github.io/ImgurGallery
 
 ## Available Scripts
 
