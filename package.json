@@ -2,7 +2,7 @@
   "name": "imgur-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frequency01.github.io/ImgurGallery/index.html",
+  "homepage": "https://frequency01.github.io/ImgurGallery",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.31",
     "@fortawesome/free-regular-svg-icons": "^5.15.0",
